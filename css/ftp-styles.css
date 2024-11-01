@@ -1,0 +1,4 @@
+.rangeslider--horizontal{height: 20px;}
+.rangeslider__fill{background-color: #008EC2;}
+.rangeslider--horizontal .rangeslider__handle{top: -10px;}
+.rangevalue{position: absolute; top: 21px; color: #333; font-weight: bold; left: 50%;}
